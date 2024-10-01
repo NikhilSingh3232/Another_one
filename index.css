@@ -1,0 +1,21 @@
+section {
+    border: 1px solid black;
+    display: flex;
+    height: 600px;
+    background-color: brown;
+}
+
+article {
+    background-color: aqua;
+    border: 1px solid black;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    height: 100px;
+    justify-content: center;
+    align-content: center;
+}
+.A{
+    justify-content: center;
+    align-content: center;
+}
